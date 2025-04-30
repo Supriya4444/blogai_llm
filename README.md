@@ -1,6 +1,6 @@
 📝 Blog Generation Using AI Model
 
-This project is an AI-powered blog generation system designed to automatically create high-quality, long-form blog articles based on user-provided topics or keywords. It leverages advanced language models (meta-llama/Llama-3.2-1B) from Hugging Face library to generate content that is contextually relevant, grammatically coherent, and stylistically engaging.
+This project is an AI-powered blog generation system designed to automatically create high-quality, long-form blog articles based on user-provided topics or keywords. It leverages advanced language models (meta-llama-3.2-1B) from Hugging Face library to generate content that is contextually relevant, grammatically coherent, and stylistically engaging.
 
 🔍 Key Features :
 
